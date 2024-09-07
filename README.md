@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm One Tanawat</h1>
+<h1 align="center">Hi 👋, I'm Jeff Ivan Mayor</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oneetnwt&label=Profile%20views&color=0e75b6&style=flat" alt="oneetnwt" /> </p>
