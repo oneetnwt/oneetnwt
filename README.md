@@ -2,11 +2,8 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oneetnwt.oneetnwt&right_color=darkviolet&left_text=Profile%20Views"  />
-
-###
-
 <div align="left">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oneetnwt.oneetnwt&right_color=darkviolet&left_text=Profile%20Views"  />
   <a href="https://www.facebook.com/jeffivanbiosanomayor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="18" alt="facebook logo"  />
   </a>
