@@ -1,4 +1,4 @@
-<h2 align="left">Jeff Ivan Mayor</h2>
+<h1 align="left">Jeff Ivan Mayor</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🖥 Skills</h3>
+<h2 align="left">🖥 Skills</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">⚙ Tech Stack</h3>
+<h2 align="left">⚙ Tech Stack</h2>
 
 ###
 
