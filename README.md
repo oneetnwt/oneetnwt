@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">Hi there!👋 I am an exciting, fervent student of Information Technology with a passion for technology and innovation. My journey is about exploring cutting-edge tools, solving real-world problems, and coming up with impactful projects. I love programming and building web applications that are functional and visually appealing. I get excited about new challenges, collaboration on meaningful projects, and most importantly, I consider it a great opportunity to create something amazing together! 🌟</p>
+<p align="left">
+Hi! I'm an exciting, fervent student of Information Technology who loves technology and innovation. It's about finding out the newest tools, real-world problems to be solved, and coming up with impactful projects. I am enthusiastic about programming and building functional and aesthetically pleasing web applications. I love new challenges, collaboration on meaningful projects, and most importantly, it's a great opportunity to create something amazing together!
+</p>
 
 ###
 
