@@ -2,6 +2,10 @@
 
 ###
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oneetnwt.oneetnwt&right_color=purple&left_text=Profile%20Views"  />
+
+###
+
 <div align="left">
   <a href="https://www.facebook.com/jeffivanbiosanomayor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="18" alt="facebook logo"  />
@@ -22,37 +26,21 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oneetnwt.oneetnwt&right_color=purple&left_text=Profile%20Views"  />
+<p align="left">Hi! I'm an exciting, fervent student of Information Technology who loves technology and innovation. It's about finding out the newest tools, real-world problems to be solved, and coming up with impactful projects. I am enthusiastic about programming and building functional and aesthetically pleasing web applications. I love new challenges, collaboration on meaningful projects, and most importantly, it's a great opportunity to create something amazing together!</p>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">🖥 Skills</h3>
 
 ###
 
-<br clear="both">
-
 <p align="left">Web Development<br>UI/UX Design</p>
 
 ###
 
-<br clear="both">
-
-<p align="left">Hi! I'm an exciting, fervent student of Information Technology who loves technology and innovation. It's about finding out the newest tools, real-world problems to be solved, and coming up with impactful projects. I am enthusiastic about programming and building functional and aesthetically pleasing web applications. I love new challenges, collaboration on meaningful projects, and most importantly, it's a great opportunity to create something amazing together!</p>
-
-###
-
-<br clear="both">
-
 <h3 align="left">⚙ Tech Stack</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="24" alt="html5 logo"  />
@@ -83,9 +71,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oneetnwt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneetnwt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=oneetnwt&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oneetnwt&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneetnwt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=oneetnwt&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
