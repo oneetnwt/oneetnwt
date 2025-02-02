@@ -28,10 +28,6 @@
 
 ###
 
-<p align="left">Hi there!👋 I am an exciting, fervent student of Information Technology with a passion for technology and innovation. My journey is about exploring cutting-edge tools, solving real-world problems, and coming up with impactful projects. I love programming and building web applications that are functional and visually appealing. I get excited about new challenges, collaboration on meaningful projects, and most importantly, I consider it a great opportunity to create something amazing together! 🌟</p>
-
-###
-
 <h3 align="left">🖥 Skills</h3>
 
 ###
@@ -63,11 +59,11 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24" alt="postgresql logo"  />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
 </div>
 
 ###
