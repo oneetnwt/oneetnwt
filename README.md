@@ -4,7 +4,7 @@
 
 ###
 
-##### ***It’s not a bug; it’s an undocumented feature.***
+### <small> *It’s not a bug; it’s an undocumented feature.*</small>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oneetnwt.oneetnwt&right_color=darkviolet&left_text=Profile%20Views"  />
 
