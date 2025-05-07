@@ -27,7 +27,8 @@
 
 ###
 
-<p align="left">• Web Development<br>• UI Design</p>
+* Web Development
+* UI/UX Design
 
 ###
 
