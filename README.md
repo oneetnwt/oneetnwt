@@ -1,4 +1,6 @@
-# *It’s not a bug; it’s an undocumented feature.*
+# *Hi there!*
+
+I am Jeff Ivan Mayor and I'm an Information Technology Student in Bukidnon.
 
 ###
 
