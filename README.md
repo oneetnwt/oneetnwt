@@ -6,53 +6,53 @@
 
 > 📍 Based in Bukidnon Philippines | 💻 Student & Full Stack Developer
 
-## 🚀 About Me
+## About Me
 
 I am a passionate developer focused on building efficient web applications and smart systems. My work spans from **Student Organization management tools** to **AI-integrated healthcare solutions**. I enjoy solving real-world problems through clean code and intuitive user interfaces.
 
-- 🔭 **Currently working on:** AI-driven projects like **OncoCareAI** (Django) and resource management systems.
-- 🌱 **Learning:** Deepening my expertise in Python/Django and modern JavaScript and Typescripts frameworks.
-- 👯 **Open to:** Collaborating on open-source web projects and innovative tech solutions.
-- 📫 **How to reach me:** Via [LinkedIn](https://www.linkedin.com/in/jeffivan-m524) or my [website](https://oneetnwt.tech).
+- **Currently working on:** AI-driven projects like **OncoCareAI** (Django) and resource management systems.
+- **Learning:** Deepening my expertise in Python/Django and modern JavaScript and Typescripts frameworks.
+- **Open to:** Collaborating on open-source web projects and innovative tech solutions.
+- **How to reach me:** Via [LinkedIn](https://www.linkedin.com/in/jeffivan-m524) or my [website](https://oneetnwt.tech).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | PHP (Laravel/Blade), Python (Django), Node.js |
-| **Frontend** | JavaScript, HTML5, CSS3, Blade Templates |
-| **Database** | MySQL, SQLite |
+| **Backend** | Laravel, Django, Node.js, FastAPI |
+| **Frontend** | JavaScript, HTML5, CSS3, Blade Templates, TailwindCSS, React |
+| **Database** | MySQL, SQLite, MongoDB |
 | **Tools** | Git, GitHub, OAuth Integration, Real-time Systems |
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🏥 OncoCareAI
+### OncoCareAI
 *A Django-based platform likely focused on oncology care or health data management.*
 - **Stack:** Python, Django
 - **Status:** 🟢 Active Development (2026)
 
-### 📅 Booking System
+### Booking System
 *A comprehensive web-based booking platform.*
 - **Stack:** PHP, Google OAuth
 - **Features:** Secure user authentication, real-time slot management.
 
-### 👥 Attendance Tracking System
+### Attendance Tracking System
 *Modern attendance solution for Student Body Organizations (SBO).*
 - **Stack:** JavaScript, Web APIs
 - **Features:** Real-time updates, beautiful UI, SBO specific logic.
 
-### 💼 JobFlow
+### JobFlow
 *A workflow or job management application.*
 - **Stack:** Blade, PHP
 - **Focus:** Streamlining job/application processes.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneetnwt&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneetnwt&layout=compact&theme=radical)
@@ -61,7 +61,7 @@ I am a passionate developer focused on building efficient web applications and s
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 Let's build something amazing together! Feel free to reach out for collaborations, tech talks, or just a friendly chat.
 
@@ -84,7 +84,7 @@ Let's build something amazing together! Feel free to reach out for collaboration
 <br>
 
 <!-- Recent activity can be manually updated or linked via plugins -->
-- 🚀 Started new repositories: **OncoCareAI-Django**, **ShelfMate**, **JobFlow**.
+- 🚀 Started new repositories: **OncoCareAI**, **ShelfMate**, **JobFlow**.
 - 💡 Contributing to **Booking Systems** and **Attendance Trackers** with modern auth flows.
 - 📅 Active contributor with consistent commits in early 2026.
 
@@ -94,4 +94,4 @@ Let's build something amazing together! Feel free to reach out for collaboration
 
 ---
 
-⭐️ Thanks for visiting my profile! Don't hesitate to check out my pinned repositories above.
+⭐️ Thanks for visiting my profile! Don't hesitate to check out my pinned repositories.
