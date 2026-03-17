@@ -1,17 +1,17 @@
-# Hi there, I'm Jeff Ivan Mayor! 👋
+# Hi there, I'm Jeff Ivan Mayor!
 
 [![Website](https://img.shields.io/badge/Website-oneetnwt.tech-blue?style=for-the-badge)](https://oneetnwt.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeff%20Ivan%20Mayor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffivan-m524)
 [![GitHub](https://img.shields.io/badge/GitHub-%40oneetnwt-181717?style=for-the-badge&logo=github)](https://github.com/oneetnwt)
 
-> 📍 Based in Veltrixu | ⏰ UTC+12 | 💻 Full Stack Developer & Tech Enthusiast
+> 📍 Based in Bukidnon Philippines | 💻 Student & Full Stack Developer
 
 ## 🚀 About Me
 
 I am a passionate developer focused on building efficient web applications and smart systems. My work spans from **Student Organization management tools** to **AI-integrated healthcare solutions**. I enjoy solving real-world problems through clean code and intuitive user interfaces.
 
 - 🔭 **Currently working on:** AI-driven projects like **OncoCareAI** (Django) and resource management systems.
-- 🌱 **Learning:** Deepening my expertise in Python/Django and modern JavaScript frameworks.
+- 🌱 **Learning:** Deepening my expertise in Python/Django and modern JavaScript and Typescripts frameworks.
 - 👯 **Open to:** Collaborating on open-source web projects and innovative tech solutions.
 - 📫 **How to reach me:** Via [LinkedIn](https://www.linkedin.com/in/jeffivan-m524) or my [website](https://oneetnwt.tech).
 
@@ -30,15 +30,10 @@ I am a passionate developer focused on building efficient web applications and s
 
 ## 📂 Featured Projects
 
-### 🏥 OncoCareAI-Django
+### 🏥 OncoCareAI
 *A Django-based platform likely focused on oncology care or health data management.*
 - **Stack:** Python, Django
 - **Status:** 🟢 Active Development (2026)
-
-### 📚 ShelfMate
-*A smart borrowing and resource management system.*
-- **Stack:** Blade (Laravel), JavaScript
-- **Features:** Streamlined resource tracking, user-friendly interface.
 
 ### 📅 Booking System
 *A comprehensive web-based booking platform.*
