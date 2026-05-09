@@ -1,22 +1,22 @@
 # Header Section
-- **Profile Banner / Intro:** Hi there, I'm Jeff Ivan Mayor!
-- **Name:** Jeff Ivan Mayor
-- **Professional Tagline:** Student & Full-Stack Developer
-- **Typing Animation:**
-  - ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Building+web+apps+and+smart+systems;Focused+on+clean+code+and+great+UX;Open+to+collaboration+and+learning)
-- **Badges / Shields:**
-  - [![Website](https://img.shields.io/badge/Website-oneetnwt.tech-blue?style=for-the-badge)](https://oneetnwt.tech)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeff%20Ivan%20Mayor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffivan-m524)
-  - [![GitHub](https://img.shields.io/badge/GitHub-%40oneetnwt-181717?style=for-the-badge&logo=github)](https://github.com/oneetnwt)
+**Hi there, I'm Jeff Ivan Mayor!**
+
+Student & Full-Stack Developer based in Bukidnon, Philippines.
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Building+web+apps+and+smart+systems;Focused+on+clean+code+and+great+UX;Open+to+collaboration+and+learning)
+
+[![Website](https://img.shields.io/badge/Website-oneetnwt.tech-blue?style=for-the-badge)](https://oneetnwt.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeff%20Ivan%20Mayor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffivan-m524)
+[![GitHub](https://img.shields.io/badge/GitHub-%40oneetnwt-181717?style=for-the-badge&logo=github)](https://github.com/oneetnwt)
 
 ---
 
 # About Me
-- **Short Introduction:** Passionate developer focused on building efficient web applications and smart systems.
-- **Background:** Built student organization management tools and AI-integrated healthcare solutions.
-- **Current Role / Study:** Student based in Bukidnon, Philippines.
-- **Interests:** Real-world problem solving, clean code, intuitive interfaces.
-- **Learning Focus:** Python/Django and modern JavaScript/TypeScript frameworks.
+- Passionate developer building efficient web applications and smart systems.
+- Experience with student organization management tools and AI-integrated healthcare solutions.
+- Focused on clean code and intuitive user interfaces.
+- Learning Python/Django and modern JavaScript/TypeScript frameworks.
+- Open to collaborating on open-source web projects and innovative tech solutions.
 
 ---
 
@@ -34,7 +34,7 @@
 - Git, GitHub, OAuth Integration, Real-time Systems
 
 ## Deployment / DevOps
-- Not listed
+- Portfolio site: https://oneetnwt.tech
 
 ---
 
@@ -74,18 +74,15 @@
 ---
 
 # Achievements / Certifications
-- **Certifications:** None listed yet.
-- **Awards:** None listed yet.
-- **Competitions:** None listed yet.
-- **Milestones:** Started repositories such as OncoCareAI, ShelfMate, and JobFlow.
+- Started repositories such as OncoCareAI, ShelfMate, and JobFlow.
+- Active contributor with consistent commits in early 2026.
 
 ---
 
 # Experience
-- **Freelance Work:** Not listed.
-- **Internship:** Not listed.
-- **Leadership Roles:** Built tools for Student Body Organizations (SBO).
-- **Organizations:** Student Body Organizations (SBO) projects and initiatives.
+- Built student organization management tools for SBO workflows.
+- Developed booking and attendance systems with real-time features.
+- Worked on OAuth-enabled authentication flows and integrations.
 
 ---
 
@@ -93,8 +90,6 @@
 - **GitHub:** https://github.com/oneetnwt
 - **LinkedIn:** https://www.linkedin.com/in/jeffivan-m524
 - **Portfolio:** https://oneetnwt.tech
-- **Email:** Not listed.
-- **Social Links:** Not listed.
 
 ---
 
