@@ -4,14 +4,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeff%20Ivan%20Mayor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffivan-m524)
 [![GitHub](https://img.shields.io/badge/GitHub-%40oneetnwt-181717?style=for-the-badge&logo=github)](https://github.com/oneetnwt)
 
-> 📍 Based in Bukidnon Philippines | 💻 Student & Full Stack Developer
+> 📍 Based in Bukidnon, Philippines | 💻 Student & Full-Stack Developer
 
 ## About Me
 
 I am a passionate developer focused on building efficient web applications and smart systems. My work spans from **Student Organization management tools** to **AI-integrated healthcare solutions**. I enjoy solving real-world problems through clean code and intuitive user interfaces.
 
 - **Currently working on:** AI-driven projects like **OncoCareAI** (Django) and resource management systems.
-- **Learning:** Deepening my expertise in Python/Django and modern JavaScript and Typescripts frameworks.
+- **Learning:** Deepening my expertise in Python/Django and modern JavaScript and TypeScript frameworks.
 - **Open to:** Collaborating on open-source web projects and innovative tech solutions.
 - **How to reach me:** Via [LinkedIn](https://www.linkedin.com/in/jeffivan-m524) or my [website](https://oneetnwt.tech).
 
@@ -43,7 +43,7 @@ I am a passionate developer focused on building efficient web applications and s
 ### Attendance Tracking System
 *Modern attendance solution for Student Body Organizations (SBO).*
 - **Stack:** JavaScript, Web APIs
-- **Features:** Real-time updates, beautiful UI, SBO specific logic.
+- **Features:** Real-time updates, beautiful UI, SBO-specific logic.
 
 ### JobFlow
 *A workflow or job management application.*
