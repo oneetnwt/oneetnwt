@@ -93,7 +93,4 @@ Student & Full-Stack Developer based in Bukidnon, Philippines.
 
 ---
 
-# Footer
-- **Inspirational Quote:** "Code is like humor. When you have to explain it, it’s bad." – Cory House
-- **Visitor Counter:** ![Profile Views](https://komarev.com/ghpvc/?username=oneetnwt&style=for-the-badge)
-- **Closing Message:** Thanks for visiting my profile! Feel free to check out my pinned repositories.
+![Profile Views](https://komarev.com/ghpvc/?username=oneetnwt&style=for-the-badge)
