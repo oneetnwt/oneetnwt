@@ -10,8 +10,6 @@ Bukidnon, Philippines
 
 ---
 
-## Professional Summary
-
 Full-stack developer with expertise in building scalable web applications and intelligent systems. Specialized in developing healthcare solutions, organizational management platforms, and real-time booking systems. Committed to delivering clean, maintainable code and exceptional user experiences through modern development practices and emerging technologies.
 
 **Core Competencies:**
